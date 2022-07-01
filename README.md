@@ -2,7 +2,7 @@
 
 A website that allows users to create a randomized password consisting of uppercase/lowercase characters, numbers, and symbols.
 
-** Languages used
+## Languages used
 
 HTML, CSS, Javascript
 
